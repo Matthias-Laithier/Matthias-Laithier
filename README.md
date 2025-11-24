@@ -16,8 +16,8 @@
 <!-- About Me -->
 <p align="center">
   <em>
-    <strong>AI & Data Student @ EPITA</strong> - building neural systems, optimizing code, and exploring high-performance computing.<br/>
-    Passionate about applied deep learning, model interpretability, and the intersection of science & creativity.
+    <strong>AI & Data Student @ EPITA</strong> <br/>
+    Passionate about applied deep learning and the intersection of science & creativity.
   </em>
 </p>
 
