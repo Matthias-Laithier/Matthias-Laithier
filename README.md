@@ -27,11 +27,9 @@
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,linux,git,github,c,cpp,latex&perline=10" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF&height=1&section=footer" /> </p>
 
-
-
 <!-- Streak -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matthias-Laithier&show_icons=true&hide_border=true&hide_rank=true&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&bg_color=0D1117" height="165" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matthias-Laithier&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FFFFFF&area=true&hide_border=true" />
 </div>
 
 <!-- Snake -->
