@@ -31,7 +31,7 @@
 
 <!-- Streak -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matthias-Laithier&show_icons=true&theme=radical&hide_border=true&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&bg_color=0D1117" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Matthias-Laithier&show_icons=true&hide_border=true&hide_rank=true&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&bg_color=0D1117" height="165" />
 </div>
 
 <!-- Snake -->
