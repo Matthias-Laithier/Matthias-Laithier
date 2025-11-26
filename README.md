@@ -27,7 +27,7 @@
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,linux,git,github,c,cpp,latex&perline=10" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF&height=1&section=footer" /> </p>
 
-<div align="center">
+
 
 <!-- Streak -->
 <div align="center">
