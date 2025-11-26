@@ -22,13 +22,8 @@
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,50:7A00FF,100:FF00FF&height=2&section=footer" /> </p>
 
 <div align="center">
-  
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,linux,git,github,c,cpp,latex&perline=10" />
-  
-  <br/> <br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matthias-Laithier&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FFFFFF&area=true&hide_border=true" />
-
   <img style="padding-top: 20px" src="https://github.com/Matthias-Laithier/Matthias-Laithier/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake">
-
 </div>
 
 <!-- Neon divider --> 
