@@ -30,7 +30,13 @@
 <div align="center">
 
 <!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=Matthias-Laithier&theme=radical&hide_border=true&ring=00FFFF&fire=FF00FF&currStreakLabel=FFFFFF&background=0D1117" height="165" /> </div> <p align="center">
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Matthias-Laithier&show_icons=true&theme=radical&hide_border=true&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&bg_color=0D1117" height="165" />
+  
+  <img src="https://streak-stats.demolab.com?user=Matthias-Laithier&theme=radical&hide_border=true&ring=00FFFF&fire=FF00FF&currStreakLabel=FFFFFF&background=0D1117" height="165" /> 
+
+</div>
 
 <!-- Snake -->
 <div align="center">
