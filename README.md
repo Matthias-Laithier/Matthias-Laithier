@@ -15,7 +15,7 @@
 <p align="center">
   <em>
     <strong>AI & Data Student @ EPITA</strong> <br/>
-    Passionate about applied deep learning and the intersection of science & creativity.
+    Passionate about applied AI and the intersection of science & creativity.
   </em>
 </p>
 
