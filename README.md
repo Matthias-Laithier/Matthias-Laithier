@@ -6,4 +6,4 @@ Interested in applied AI, agents, and building useful things with LLMs.
 
 Feel free to reach out:
 
-[LinkedIn](https://www.linkedin.com/in/matthias-laithier) · [Email](mailto:matthias.laithier@epita.fr)
+[LinkedIn](https://www.linkedin.com/in/matthias-laithier) · matthias.laithier@epita.fr
